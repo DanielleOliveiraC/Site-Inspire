@@ -1,3 +1,3 @@
 # Site-Inspire
 
- Site desenvolvido para um projeto de Trabalho de Conclusão de Módulo.
+ Aprimoramento de um site desenvolvido para um projeto de Trabalho de Conclusão de Módulo.
