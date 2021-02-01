@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 #header{
     position: relative;
     width: 1349px;
@@ -50,7 +51,7 @@ nav ul li a:hover{
 #content{
     position: relative;
     width: 1349px;
-    height: 1000px;
+    height: 1300px;
 }
 
 img{
@@ -68,12 +69,6 @@ h2{
     font-size: 35px;
 }
 
-p3{
-    text-align: justify;
-    font-family: 'Montserrat', sans-serif;;
-    font-size: 15px;
-}
-
 .texto{
     position:relative;
 	width:590px;
@@ -84,9 +79,92 @@ p3{
     padding: 20px;
     margin-top: 15px;
 }
+
+p3{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 15px;
+}
+
+.bgParallax {
+    font-family: 'Elsie', cursive;
+    color:#FFF08;
+    width: 1349px;
+    max-width: 1349px;
+    position: relative;
+    min-height: 40%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#branco{
+	height: 220px;
+	background-image: url(A-Revista.jpg);
+} 
+
+#imagem{
+	height:450px;
+    background-image: url(img/Parallax.jpg);
+}
+
+#imagem2{
+	height: 220px;
+    background-image: url(img/Decoração.jpg);
+}
+
+#imagem3{
+	height: 220px;
+    background-image: url(img/Design.jpg);
+}
+
+#imagem4{
+	height: 220px;
+    background-image: url(img/Especiais.jpg);
+}
+
+#imagem5{
+	height: 220px;
+    background-image: url(Contato.jpg);
+}
+
+/* Formata o article que vai o texto*/
+.bgParallax article{
+  	width: 1349px;
+  	text-align: center;
+  	padding:20px;
+}
+
+.confira{
+    position:relative;
+    width:400px;
+    height:400px;
+    background-color:#ffffff;
+    padding:10px;
+    float: left;
+    margin-left: 10px;   	
+}
+
+p1{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+
+.sm{
+	border-radius:20px;
+	border:1px solid #8B8989;
+	width: 100px;
+	height: 25px;
+	background: #FFFFFF;
+}
+
+.sm:hover
+{
+    opacity:1;
+	background: #EEE5DE;
+}
+
 #footer{
     position: relative;
     width: 1349px;
     height: 100px;
-    border: 1px solid black;
 }
