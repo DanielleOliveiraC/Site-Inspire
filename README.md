@@ -1,3 +1,3 @@
 # Site-Inspire
 
- Aprimoramento de um site desenvolvido para um projeto de Trabalho de Conclusão de Módulo.
+Site voltado para a temática de Casa & Decoração, é resultado de uma revista de mesmo conteúdo.
