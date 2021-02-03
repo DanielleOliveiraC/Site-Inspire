@@ -25,6 +25,14 @@ h2{
     font-weight: bold;
 }
 
+h3{
+    text-align: center;
+    font-family: Century Gothic;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 320px;
+}
+
 p1{
     text-align: center;
     font-family: 'Courgette', cursive;
@@ -178,23 +186,21 @@ nav ul li a:hover{
     background: #FFFFFF;
 }
 
-.sm:hover
-{
+.sm:hover {
     opacity:1;
 	background: #EEE5DE;
 }
 
 #footer{
     position: relative;
-    width: 1160px;
-    height: 100px;
-    padding: 10px 90px;
+    width: 1200px;
+    height: 70px;
+    padding: 10px 70px;
 }
 
 section{
     position: relative;
-    width: 370px;
+    width: 300px;
     height: 100px;
-    text-align: center;
     float: left;
 }
